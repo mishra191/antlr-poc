@@ -1,0 +1,4 @@
+ IF time is 18:00 and weather is rainy THEN turn on lights
+ IF time is 07:00 and day is Monday THEN turn off alarm
+ IF day is Tuesday and weather is sunny THEN go to gym
+ IF day is Wednesday THEN don't go to office
